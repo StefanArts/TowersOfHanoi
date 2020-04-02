@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Turm
+comment1.params=scheiben
+comment1.target=Turm(int)
+comment2.params=s\ visible
+comment2.target=void\ scheibeHinzuf\u00FCgen(Scheibe,\ boolean)
+comment3.params=
+comment3.target=Scheibe\ scheibeEntfernen()
+comment4.params=
+comment4.target=void\ scheibenErneuern()
+comment5.params=exception
+comment5.target=void\ scheibenErneuern(int)
+comment6.params=groesse
+comment6.target=Scheibe\ gibScheibe(int)
+numComments=7

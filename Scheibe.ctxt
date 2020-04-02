@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Scheibe
+comment0.text=\r\n\ Autor\:\ Mathias\ Kesting\ und\ Maren\ Clemens\r\n\ Datum\:\ 30.\ M\u00E4rz\ 2020\r\n
+comment1.params=groesse
+comment1.target=Scheibe(int)
+comment2.params=
+comment2.target=int\ gibGroesse()
+numComments=3

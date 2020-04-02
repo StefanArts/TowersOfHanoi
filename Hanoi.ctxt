@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hanoi
+comment1.params=
+comment1.target=Hanoi()
+comment2.params=scheiben
+comment2.target=void\ vorbereiten(int)
+comment3.params=start\ aux\ ziel\ scheiben
+comment3.target=void\ hanoi(Turm,\ Turm,\ Turm,\ int)
+comment4.params=groesse\ startX\ startY\ zielX\ zielY
+comment4.target=void\ animation(int,\ int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=void\ leeren()
+numComments=6
